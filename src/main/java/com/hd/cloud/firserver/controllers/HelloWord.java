@@ -10,6 +10,6 @@ public class HelloWord {
 
     @PostMapping(value = "/world")
     public String hello(){
-        return "你好啊";
+        return "你好啊2";
     }
 }
